@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@vanilla-ftw/vanilla-dom": "^0.0.6"
+    "@vanilla-ftw/vanilla-dom": "^0.0.7"
   }
 }
