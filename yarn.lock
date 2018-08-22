@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@vanilla-ftw/vanilla-dom@^0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@vanilla-ftw/vanilla-dom/-/vanilla-dom-0.0.11.tgz#043e2fa0bb2ea319c6e16fe42e562f87806ab8c4"
+"@vanilla-ftw/vanilla-dom@^0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@vanilla-ftw/vanilla-dom/-/vanilla-dom-0.0.12.tgz#d89c8b77b8da779bd6aee2ec26ff17d2dad105e3"
   dependencies:
     escodegen "^1.11.0"
     esprima "^4.0.1"
